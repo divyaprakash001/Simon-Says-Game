@@ -1,6 +1,9 @@
 # creator
 Divya Prakash
 
+# what google says about this game
+A classic childhood favourite is 'Simon says'. This game tests your ability to follow instructions in a short time and improves your concentration and quick action power. By remembering sequences of actions or patterns you help boost your brain strength.
+
 # description
 1. Press any key to start the game
 2. Initially you are in level 1
